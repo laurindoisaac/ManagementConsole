@@ -1,2 +1,1 @@
-# ManagementConsole
-Professional ManagementConsole infrastructure with ManagementConsole-optimized intelligent-automation and enterprise cloud-ready capabilities
+.
